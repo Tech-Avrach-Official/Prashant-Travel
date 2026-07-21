@@ -32,11 +32,11 @@ const BookingContact = () => {
 
           <div className="flex flex-col sm:flex-row items-center md:items-start gap-4">
             <a
-              href="tel:+919876543210"
+              href="tel:+919285117911"
               className="inline-flex items-center gap-3 bg-[#0a2540] hover:bg-[#0a2540]/90 transition-colors text-white px-7 py-3.5 rounded-full text-base md:text-lg font-semibold"
             >
               <Phone size={18} fill="white" />
-              +91 98765 43210
+              +91 92851 17911
             </a>
 
           
