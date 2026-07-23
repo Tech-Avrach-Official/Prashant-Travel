@@ -247,7 +247,7 @@ export default function Footer() {
               Praphull Rajak.
             </p>
 
-            <div className="flex gap-4">
+            {/* <div className="flex gap-4">
               {socialIcons.map((Icon, index) => (
                 <div
                   key={index}
@@ -269,7 +269,7 @@ export default function Footer() {
                   <Icon size={18} />
                 </div>
               ))}
-            </div>
+            </div> */}
           </div>
 
           {/* QUICK LINKS */}
